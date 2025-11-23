@@ -1,5 +1,5 @@
 """
-Model Explainability Module using SHAP (2025)
+Model Explainability Module using SHAP (2023)
 Provides interpretability for both classical and deep learning models
 """
 import shap

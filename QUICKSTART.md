@@ -1,4 +1,4 @@
-# Quick Start Guide - Disease Prediction System 2025
+# Quick Start Guide - Disease Prediction System 2023
 
 Get up and running in **5 minutes**!
 
@@ -165,7 +165,7 @@ python src/train_and_evaluate.py
 
 ## 📚 Next Steps
 
-1. **Read Full Documentation**: See `README_2025.md`
+1. **Read Full Documentation**: See `README_2023.md`
 2. **Experiment**: Try different models and compare
 3. **Customize**: Modify hyperparameters in `configs/config.py`
 4. **Deploy**: Consider Docker, AWS, or cloud deployment
@@ -187,7 +187,7 @@ python src/train_and_evaluate.py
 
 ## ❓ Need Help?
 
-- Check `README_2025.md` for detailed documentation
+- Check `README_2023.md` for detailed documentation
 - Open an issue on GitHub
 - Review the code comments
 

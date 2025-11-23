@@ -1,5 +1,5 @@
 """
-Modern Deep Learning Models for Disease Prediction (2025)
+Modern Deep Learning Models for Disease Prediction (2023)
 Includes Neural Networks and Transformer-based architectures
 """
 import torch
@@ -53,7 +53,7 @@ class DeepNeuralNetwork(nn.Module):
 
 class TransformerClassifier(nn.Module):
     """
-    Transformer-based classifier for disease prediction (2025 approach)
+    Transformer-based classifier for disease prediction (2023 approach)
     """
 
     def __init__(self, input_dim: int, output_dim: int,

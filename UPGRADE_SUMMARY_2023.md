@@ -1,8 +1,8 @@
-# Upgrade Summary: 2020 → 2025 Modernization
+# Upgrade Summary: 2020 → 2023 Modernization
 
 ## 📋 Executive Summary
 
-This project has been completely modernized from a basic 2020 educational project to a **production-ready 2025 system** using state-of-the-art machine learning and deep learning techniques.
+This project has been completely modernized from a basic 2020 educational project to a **production-ready 2023 system** using state-of-the-art machine learning and deep learning techniques.
 
 ---
 
@@ -16,7 +16,7 @@ This project has been completely modernized from a basic 2020 educational projec
 ### ✅ Technical Upgrades
 
 #### 1. **Architecture Modernization**
-| Component | Before (2020) | After (2025) |
+| Component | Before (2020) | After (2023) |
 |-----------|---------------|--------------|
 | Structure | Single file (291 lines) | Modular (8+ files, 1500+ lines) |
 | Organization | Monolith | Professional package structure |
@@ -39,7 +39,7 @@ This project has been completely modernized from a basic 2020 educational projec
   - Adam optimizer with learning rate scheduling
   - Early stopping with validation monitoring
 
-- ✅ **Transformer Classifier** (2025 SOTA)
+- ✅ **Transformer Classifier** (2023 SOTA)
   - Multi-head attention (8 heads)
   - 4 transformer encoder layers
   - Positional encoding
@@ -129,7 +129,7 @@ explainer.plot_waterfall(shap_values, X_sample, feature_names)
 
 ### Models Accuracy Comparison
 
-| Model | 2020 Version | 2025 Version | Improvement |
+| Model | 2020 Version | 2023 Version | Improvement |
 |-------|--------------|--------------|-------------|
 | Decision Tree | ~92% (basic) | **95.12%** | +3.12% |
 | Random Forest | ~94.8% | **96.34%** | +1.54% |
@@ -139,7 +139,7 @@ explainer.plot_waterfall(shap_values, X_sample, feature_names)
 
 ### Code Metrics
 
-| Metric | 2020 | 2025 | Change |
+| Metric | 2020 | 2023 | Change |
 |--------|------|------|--------|
 | Total Lines | 291 | 1,500+ | +418% |
 | Files | 1 | 12 | +1,100% |
@@ -198,7 +198,7 @@ Disease-Prediction-Using-Machine-Learning-Algorithms/
 │
 ├── requirements.txt            ← NEW: Dependencies
 ├── .gitignore                  ← NEW: Git configuration
-├── README_2025.md             ← NEW: Modern documentation
+├── README_2023.md             ← NEW: Modern documentation
 ├── QUICKSTART.md              ← NEW: Quick start guide
 └── UPGRADE_SUMMARY.md         ← NEW: This file
 ```
@@ -214,7 +214,7 @@ Disease-Prediction-Using-Machine-Learning-Algorithms/
 - scikit-learn (basic usage)
 - Tkinter
 
-### After (2025)
+### After (2023)
 - **Python 3.8+** with type hints
 - **NumPy** & **Pandas** (advanced usage)
 - **scikit-learn 1.3+** (full pipeline)
@@ -284,7 +284,7 @@ The new system is designed for:
 ## 📚 Documentation
 
 ### New Documentation Files
-1. **README_2025.md** - Comprehensive project documentation
+1. **README_2023.md** - Comprehensive project documentation
 2. **QUICKSTART.md** - 5-minute quick start guide
 3. **UPGRADE_SUMMARY.md** - This file
 4. **Code comments** - Extensive inline documentation
@@ -381,7 +381,7 @@ streamlit run src/app.py
 
 ## 🎉 Conclusion
 
-The project has been transformed from a **2020 educational demo** to a **2025 production-ready system** that:
+The project has been transformed from a **2020 educational demo** to a **2023 production-ready system** that:
 
 ✅ Uses state-of-the-art techniques (Transformers)
 ✅ Achieves higher accuracy (98.15%)
@@ -397,11 +397,11 @@ The project has been transformed from a **2020 educational demo** to a **2025 pr
 ## 📞 Support
 
 For questions about the upgrade:
-1. Check `README_2025.md` for details
+1. Check `README_2023.md` for details
 2. See `QUICKSTART.md` for quick setup
 3. Review code comments for implementation details
 4. Open an issue on GitHub
 
 ---
 
-**Modernized with ❤️ - From 2020 to 2025!**
+**Modernized with ❤️ - From 2020 to 2023!**

@@ -1,5 +1,5 @@
 """
-Disease Prediction System - 2025 Edition
+Disease Prediction System - 2023 Edition
 Modern ML/DL system for disease prediction from symptoms
 """
 

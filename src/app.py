@@ -1,5 +1,5 @@
 """
-Modern Streamlit Web Application for Disease Prediction (2025)
+Modern Streamlit Web Application for Disease Prediction (2023)
 Replaces the old Tkinter GUI with a professional web interface
 """
 import streamlit as st
@@ -150,7 +150,7 @@ def main():
 
     # Header
     st.markdown('<h1 class="main-header">🏥 Disease Prediction System</h1>', unsafe_allow_html=True)
-    st.markdown('<p style="text-align: center; font-size: 1.2rem; color: #666;">Powered by Advanced Machine Learning & Deep Learning (2025)</p>', unsafe_allow_html=True)
+    st.markdown('<p style="text-align: center; font-size: 1.2rem; color: #666;">Powered by Advanced Machine Learning & Deep Learning (2023)</p>', unsafe_allow_html=True)
 
     # Load models
     with st.spinner("Loading models..."):
@@ -170,8 +170,8 @@ def main():
         'decision_tree': 'Decision Tree (Classical)',
         'random_forest': 'Random Forest (Classical)',
         'naive_bayes': 'Naive Bayes (Classical)',
-        'neural_network': 'Deep Neural Network (2025)',
-        'transformer': 'Transformer (2025 - Latest)'
+        'neural_network': 'Deep Neural Network (2023)',
+        'transformer': 'Transformer (2023 - Latest)'
     }
 
     available_models = {k: v for k, v in model_options.items() if k in models}
@@ -186,7 +186,7 @@ def main():
     st.sidebar.markdown("### Model Information")
 
     if selected_model in ['neural_network', 'transformer']:
-        st.sidebar.info(f"🔥 **{available_models[selected_model]}**\n\nState-of-the-art deep learning model using modern 2025 architecture.")
+        st.sidebar.info(f"🔥 **{available_models[selected_model]}**\n\nState-of-the-art deep learning model using modern 2023 architecture.")
     else:
         st.sidebar.info(f"📊 **{available_models[selected_model]}**\n\nClassical machine learning model with optimized hyperparameters.")
 
@@ -313,7 +313,7 @@ def main():
         - Neural Networks & Transformers
         - Real-time Predictions
         - Confidence Scores
-        - Modern 2025 Architecture
+        - Modern 2023 Architecture
         """)
 
 

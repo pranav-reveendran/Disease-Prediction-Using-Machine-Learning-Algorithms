@@ -1,4 +1,4 @@
-# Disease Prediction System - 2025 Edition
+# Disease Prediction System - 2023 Edition
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
@@ -7,9 +7,9 @@
 
 ## 🚀 Overview
 
-A state-of-the-art disease prediction system leveraging modern machine learning, deep learning, and transformer architectures (2025). This project has been completely modernized from the original 2020 version with cutting-edge technologies and best practices.
+A state-of-the-art disease prediction system leveraging modern machine learning, deep learning, and transformer architectures (2023). This project has been completely modernized from the original 2020 version with cutting-edge technologies and best practices.
 
-## ✨ What's New in 2025?
+## ✨ What's New in 2023?
 
 ### 🔥 Modern Architecture
 - **Deep Neural Networks** with BatchNorm, Dropout, and modern regularization
@@ -66,7 +66,7 @@ Disease-Prediction-Using-Machine-Learning-Algorithms/
 ├── Training.csv                  # Training dataset
 ├── Testing.csv                   # Testing dataset
 ├── requirements.txt              # Python dependencies
-└── README_2025.md               # This file
+└── README_2023.md               # This file
 ```
 
 ## 🔧 Installation
@@ -193,7 +193,7 @@ print(f"Predicted Disease: {disease}")
 - **Use Case**: Fast training, probabilistic predictions
 - **Typical Accuracy**: ~94%
 
-### Deep Learning (2025)
+### Deep Learning (2023)
 
 #### 4. Deep Neural Network
 - **Architecture**: 3 hidden layers [256, 128, 64]
@@ -305,7 +305,7 @@ Based on the test dataset:
 
 ## 🚀 Improvements Over Original (2020)
 
-| Aspect | Original (2020) | Updated (2025) |
+| Aspect | Original (2020) | Updated (2023) |
 |--------|----------------|----------------|
 | **Models** | 3 basic models | 5 advanced models including Transformers |
 | **Interface** | Tkinter desktop app | Modern Streamlit web app |
@@ -371,6 +371,6 @@ For questions, suggestions, or collaborations:
 
 ---
 
-**Built with ❤️ using cutting-edge ML/DL technologies (2025)**
+**Built with ❤️ using cutting-edge ML/DL technologies (2023)**
 
 ⭐ Star this repo if you find it useful!

@@ -1,5 +1,5 @@
 """
-Main Training and Evaluation Script for Disease Prediction Models (2025)
+Main Training and Evaluation Script for Disease Prediction Models (2023)
 Includes Classical ML, Deep Learning, and Transformer models
 """
 import sys
@@ -196,7 +196,7 @@ def plot_training_curves(nn_history, transformer_history):
 def main():
     """Main execution"""
     print("\n" + "="*80)
-    print("DISEASE PREDICTION SYSTEM - 2025 VERSION")
+    print("DISEASE PREDICTION SYSTEM - 2023 VERSION")
     print("Modern ML, Deep Learning, and Transformer Models")
     print("="*80)
 
